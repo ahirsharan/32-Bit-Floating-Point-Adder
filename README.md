@@ -5,7 +5,7 @@
 ## Objective
 Design a floating point adder that takes two 32 bit single precision floating point input values that come serially with a time difference of 8 clock cycles between two inputs and stores the resultant value into eight RAMs. Perform the addition operation for 8 sets of input values.
 
-## Algorithm
+## Breif Algorithm Description
 * We need to add inputs A and B to form Out. Out=A+B
 * Here, A and B need to have the same exponents if they are to be added i.e EA=EB.
 * EA and EB are fed to the 8 bit subtractor and the borrow if 0 shows A>B and B has to be right shifted.
