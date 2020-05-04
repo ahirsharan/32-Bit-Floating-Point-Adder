@@ -40,5 +40,6 @@ Design a floating point adder that takes two 32 bit single precision floating po
 ![alt text](https://i.ibb.co/fCb3qsh/Screen-Shot-2020-05-04-at-9-43-15-PM.png)
 ![alt text](https://i.ibb.co/Sfx1QjY/Screen-Shot-2020-05-04-at-9-46-19-PM.png)
   
+*This is a term project for course evaluation of VLSI Laboratory (EC39004) at IIT Kharagpur*
 
 
