@@ -36,8 +36,9 @@ Design a floating point adder that takes two 32 bit single precision floating po
     * ABC.v
     * BV.v
     
-## Simulation
+## Simulation on Xilinx ISE with Output for ABC Test Bench
 ![alt text](https://i.ibb.co/fCb3qsh/Screen-Shot-2020-05-04-at-9-43-15-PM.png)
+![alt text](https://i.ibb.co/Sfx1QjY/Screen-Shot-2020-05-04-at-9-46-19-PM.png)
   
 
 
