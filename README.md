@@ -15,4 +15,26 @@ Design a floating point adder that takes two 32 bit single precision floating po
 * Depending on the carry output of the adder, the final mantissa is right shifted by 1 or 0;
 * The final exponent and mantissa are thus calculated.
 
+## Directory Description
+* Codes directory contains the required modules of 32-bit floating point adder.
+  * Modules:
+    * Adder_24Bit.v
+    * BarrelShifter.v 
+    * Complement2s.v
+    * ControlledIncrementor.v 
+    * FullAdder.v
+    * FullSubtractor.v  
+    * HalfAdder.v
+    * HalfSubtractor.v
+    * Mux.v 
+    * Mux24.v 
+    * Mux_8.v
+    * Subtractor_8Bit.v
+    * Sub_Result.v
+    * FIFO.v
+  * Test Bench:
+    * ABC.v
+    * BV.v
+  
+
 
