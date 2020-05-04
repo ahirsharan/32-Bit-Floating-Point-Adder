@@ -16,7 +16,7 @@ Design a floating point adder that takes two 32 bit single precision floating po
 * The final exponent and mantissa are thus calculated.
 
 ## Directory Description
-* Codes directory contains the required modules of 32-bit floating point adder.
+* Codes directory contains the required modules of 32-bit floating point adder along with the test bench.
   * Modules:
     * Adder_24Bit.v
     * BarrelShifter.v 
@@ -35,6 +35,9 @@ Design a floating point adder that takes two 32 bit single precision floating po
   * Test Bench:
     * ABC.v
     * BV.v
+    
+## Simulation
+![alt text](https://i.ibb.co/fCb3qsh/Screen-Shot-2020-05-04-at-9-43-15-PM.png)
   
 
 
